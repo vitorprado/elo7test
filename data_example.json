@@ -1,0 +1,51 @@
+{
+  "data": {
+    "departments": [ "Engenharia", "Eventos"],
+    "culture": [
+      {   
+        "title": "nossa cultura",
+        "description": "Somos orientados pela satisfação e fidelização de nossos clientes"
+      },
+      { 
+        "title": "criatividade", 
+        "description": "Estimulamos a intervenção humana como algo insubstituível. Nosso ambiente é inspirador",
+        "icon": "criatividade"
+      },
+      {
+        "title": "colaboração",
+        "description": "Valorizamos o trabalho em equipe e as habilidades individuais. Incentivamos o empreendedorismo e formamos um time fora de série",
+        "icon": "colaboracao"
+      },
+      {
+        "title": "tecnologia e inovação",
+        "description": "Utilizamos a tecnologia para melhorar continuamente nosso negócio. Transformamos e conectamos pessoas",
+        "icon": "tec-ino"
+      }
+    ],
+    "areas": {
+      "title": "conheça nossas areas",
+      "items": [
+        { "name": "engenharia", "icon": "ic-engenharia" },
+        { "name": "atendimento", "icon": "ic-atendimento" },
+        { "name": "comunicação & marketing", "icon": "ic-comunicacao-mkt" },
+        { "name": "desenvolvimento de vendedores", "icon": "ic-desenvolvimento-vendedores" },
+        { "name": "design", "icon": "ic-design" },
+        { "name": "produto", "icon": "ic-produto" },
+        { "name": "trust & safety", "icon": "ic-trustnsafety" },
+        { "name": "administrativo / financeiro", "icon": "ic-adm-financeiro" }
+      ]
+    },
+    "footer": {
+      "title": "conecte-se com a gente",
+      "links": [
+        { "link": "https://www.facebook.com/Elo7br", "icon": "facebook" },
+        { "link": "https://plus.google.com/+Elo7Br/posts", "icon": "googleplus" },
+        { "link": "https://instagram.com/elo7br", "icon": "instagram" },
+        { "link": "https://br.pinterest.com/elo7br", "icon": "pinterest" },
+        { "link": "https://twitter.com/elo7", "icon": "twitter" },
+        { "link": "https://linkedin.com/company/elo7", "icon": "linkedin" },
+        { "link": "https://blog.elo7.com.br", "icon": "blog" }
+      ]
+    }
+  }
+}
