@@ -1,4 +1,4 @@
-Soluço to teste da elo7
+Solução to teste da elo7
 
 Primeiramente desculpe pelo unico commit, esqueci de colocar o git no inicio e estava meio perdido com as coisas do `React-Native`.
 
